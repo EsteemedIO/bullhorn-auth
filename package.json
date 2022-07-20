@@ -1,0 +1,24 @@
+{
+  "name": "bullhorn-auth",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EsteemedIO/bullhorn-auth.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/EsteemedIO/bullhorn-auth/issues"
+  },
+  "homepage": "https://github.com/EsteemedIO/bullhorn-auth#readme",
+  "dependencies": {
+    "axios": "^0.27.2",
+    "node-cache": "^5.1.2",
+    "qs": "^6.11.0"
+  }
+}
